@@ -1,0 +1,21 @@
+body {
+    background: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+button {
+    border: solid 3px #F8EDE3;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    background: #9b87a2;
+    color: #D0B8A8;
+    font-weight: bold;
+}
+
+body {
+    background-color: blueviolet;
+}
